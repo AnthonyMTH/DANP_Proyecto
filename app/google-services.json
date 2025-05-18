@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "202214274760",
+    "project_id": "alerta360-d43ff",
+    "storage_bucket": "alerta360-d43ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202214274760:android:9a58aaaa7e29ce7b91d7fd",
+        "android_client_info": {
+          "package_name": "com.example.alerta360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQV1qJEa-7sLroVpFDZPTUfH1Wn-xFIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202214274760:android:e61844534d01679d91d7fd",
+        "android_client_info": {
+          "package_name": "com.unsa.alerta360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQV1qJEa-7sLroVpFDZPTUfH1Wn-xFIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
