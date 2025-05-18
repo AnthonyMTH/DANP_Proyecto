@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">202214274760</string>
+    <string name="google_api_key" translatable="false">AIzaSyBRQV1qJEa-7sLroVpFDZPTUfH1Wn-xFIQ</string>
+    <string name="google_app_id" translatable="false">1:202214274760:android:e61844534d01679d91d7fd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBRQV1qJEa-7sLroVpFDZPTUfH1Wn-xFIQ</string>
+    <string name="google_storage_bucket" translatable="false">alerta360-d43ff.firebasestorage.app</string>
+    <string name="project_id" translatable="false">alerta360-d43ff</string>
+</resources>
